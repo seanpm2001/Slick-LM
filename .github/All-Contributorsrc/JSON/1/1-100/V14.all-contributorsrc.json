@@ -1,0 +1,245 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "seanpm2001",
+      "name": "Sean P. Myrick V19.1.7.2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65933340?v=4",
+      "profile": "https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "slick-license-manager",
+      "name": "Slick (license manager)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87841696?v=4",
+      "profile": "https://github.com/S-Desktop-Environment",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "skeuowie",
+      "name": "Skeuowie Desktop Environment (SDE) Development",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83561941?v=4",
+      "profile": "https://github.com/seanpm2001/Skeuwie",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "s-desktop-environment",
+      "name": "S Desktop Environment (SDE) or Skeuowie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86444828?v=4",
+      "profile": "https://github.com/seanpm2001/Skeuwie",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-GPL",
+      "name": "Seanpm2001 GPL (General Public License)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86742875?v=4",
+      "profile": "https://github.com/Seanpm2001-GPL",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-all",
+      "name": "Seanpm2001 (All)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71843643?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-python",
+      "name": "Seanpm2001 Python projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83988524?v=4",
+      "profile": "https://github.com/python/cpython",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-html5-lang",
+      "name": "Seanpm2001 HTML5 projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83990679?v=4",
+      "profile": "https://en.wikipedia.org/wiki/HTML5",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-json-lang",
+      "name": "Seanpm2001 JSON language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93161824?v=4",
+      "profile": "https://github.com/Seanpm2001-JSON-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-software",
+      "name": "SeanPM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71793933?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanwallawalla-software",
+      "name": "seanwallawalla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71748083?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-MIT-license",
+      "name": "Seanpm2001 MIT Licensed projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86743633?v=4",
+      "profile": "https://github.com/Seanpm2001-MIT-License",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "seanpm2001-Apache-license",
+      "name": "Seanpm2001 Apache Licensed software projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86991971?v=4",
+      "profile": "https://github.com/Seanpm2001-Apache-License",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Slick-LM",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
