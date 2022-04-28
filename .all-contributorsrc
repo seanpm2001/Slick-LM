@@ -217,6 +217,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-Apache-license",
+      "name": "Seanpm2001 Apache Licensed software projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86991971?v=4",
+      "profile": "https://github.com/Seanpm2001-Apache-License",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
