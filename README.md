@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -325,6 +325,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/seanwallawalla-tools"><img src="https://avatars.githubusercontent.com/u/85651701?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seanpm2001 Tools</b></sub></a><br /><a href="https://github.com/seanpm2001/Slick-LM/commits?author=seanpm2001-tools" title="Code">💻</a> <a href="https://github.com/seanpm2001/Slick-LM/commits?author=seanpm2001-tools" title="Documentation">📖</a> <a href="#projectManagement-seanpm2001-tools" title="Project Management">📆</a> <a href="#security-seanpm2001-tools" title="Security">🛡️</a> <a href="#data-seanpm2001-tools" title="Data">🔣</a> <a href="#content-seanpm2001-tools" title="Content">🖋</a> <a href="#design-seanpm2001-tools" title="Design">🎨</a> <a href="#maintenance-seanpm2001-tools" title="Maintenance">🚧</a> <a href="#ideas-seanpm2001-tools" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/seanpm2001/"><img src="https://avatars.githubusercontent.com/u/71908132?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SeanWallaWalla Tools</b></sub></a><br /><a href="https://github.com/seanpm2001/Slick-LM/commits?author=seanwallawalla-tools" title="Code">💻</a> <a href="https://github.com/seanpm2001/Slick-LM/commits?author=seanwallawalla-tools" title="Documentation">📖</a> <a href="#projectManagement-seanwallawalla-tools" title="Project Management">📆</a> <a href="#security-seanwallawalla-tools" title="Security">🛡️</a> <a href="#data-seanwallawalla-tools" title="Data">🔣</a> <a href="#content-seanwallawalla-tools" title="Content">🖋</a> <a href="#design-seanwallawalla-tools" title="Design">🎨</a> <a href="#maintenance-seanwallawalla-tools" title="Maintenance">🚧</a> <a href="#ideas-seanwallawalla-tools" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
