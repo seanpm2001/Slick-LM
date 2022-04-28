@@ -200,6 +200,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-MIT-license",
+      "name": "Seanpm2001 MIT Licensed projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86743633?v=4",
+      "profile": "https://github.com/Seanpm2001-MIT-License",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
