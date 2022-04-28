@@ -64,6 +64,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "s-desktop-environment",
+      "name": "S Desktop Environment (SDE) or Skeuowie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86444828?v=4",
+      "profile": "https://github.com/seanpm2001/Skeuwie",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
