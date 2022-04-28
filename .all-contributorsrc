@@ -30,6 +30,23 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "slick-license-manager",
+      "name": "Slick (license manager)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87841696?v=4",
+      "profile": "https://github.com/S-Desktop-Environment",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
