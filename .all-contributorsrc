@@ -234,6 +234,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "seanpm2001-tools",
+      "name": "Seanpm2001 Tools",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85651701?v=4",
+      "profile": "https://github.com/seanwallawalla-tools",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
